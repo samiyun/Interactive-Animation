@@ -13,7 +13,7 @@ Start and Completed: `Dec 11, 2021 - Jan 19, 2022`.
 * Draws the next scene on each click
   
 # Link to Gameplay and Source:
-## https://www.khanacademy.org/computer-programming/arcade-maniac-animation-culminating/4873616044244992
+https://www.khanacademy.org/computer-programming/arcade-maniac-animation-culminating/4873616044244992
 
 
 
